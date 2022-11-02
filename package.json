@@ -10,12 +10,11 @@
     "test": "npm run prettier && npm run lint"
   },
   "dependencies": {
-    "badgen": "3.2.2",
-    "bunyan": "1.8.15",
-    "express": "4.17.1",
-    "express-promise-router": "4.0.1",
-    "pg": "8.5.1",
-    "semver": "7.3.8"
+        "express": "3.1.2",
+        "lodash": "4.14.0",
+        "mkdirp": "0.3.3",
+        "less-openui5":"0.1.2",
+        "tar":"4.4.9"
   },
   "devDependencies": {
     "eslint": "7.32.0",
