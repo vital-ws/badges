@@ -14,7 +14,7 @@
         "lodash": "4.14.0",
         "mkdirp": "0.3.3",
         "less-openui5":"0.1.2",
-        "tar":"4.4.9"
+        "tar":"4.4.19"
   },
   "devDependencies": {
     "eslint": "7.32.0",
