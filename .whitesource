@@ -8,8 +8,6 @@
     "workflowRules": {
       "enabled": true,
       "minVulnerabilitySeverity":"LOW"
-    },
-    "platformCommit": true,
-    "extends": ["github>whitesource/merge-confidence:beta"]
+    }
   }
 }
