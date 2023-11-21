@@ -1,13 +1,3 @@
 {
-  "settingsInheritedFrom": "vital-ws/whitesource-config@main",
-    "scanSettings": {
-      "baseBranches": ["random"]
-      },
-    "remediateSettings": {
-  
-    "workflowRules": {
-      "enabled": true,
-      "minVulnerabilitySeverity":"LOW"
-    }
-  }
+  "settingsInheritedFrom": "vital-ws/whitesource-config@main"
 }
